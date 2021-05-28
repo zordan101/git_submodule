@@ -1,0 +1,22 @@
+From 2033a555ef8daaa7972a07fdbc998b169e683586 Mon Sep 17 00:00:00 2001
+From: Zordan <itsforzordan@gmail.com>
+Date: Fri, 28 May 2021 09:58:05 +0530
+Subject: [PATCH 2/2] 2nd_commit
+
+---
+ updatetxt.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/updatetxt.txt b/updatetxt.txt
+index 6827161..cee45c6 100644
+--- a/updatetxt.txt
++++ b/updatetxt.txt
+@@ -3,3 +3,4 @@
+ @
+ !
+ 12345
++this will be commit 2
+\ No newline at end of file
+-- 
+2.31.1.windows.1
+

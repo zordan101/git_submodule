@@ -1,0 +1,21 @@
+From 20c79646115ed31d5bf8af619a08fc9deb199c07 Mon Sep 17 00:00:00 2001
+From: Zordan <itsforzordan@gmail.com>
+Date: Fri, 28 May 2021 09:56:43 +0530
+Subject: [PATCH 1/2] added new_txext
+
+---
+ new_txext.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 new_txext.txt
+
+diff --git a/new_txext.txt b/new_txext.txt
+new file mode 100644
+index 0000000..59ef33f
+--- /dev/null
++++ b/new_txext.txt
+@@ -0,0 +1,2 @@
++helooooo
++learning git patches
+-- 
+2.31.1.windows.1
+
